@@ -56,13 +56,14 @@ git clone https://github.com/Lujan18/Analisis_Estudiantiles/edit/main/README.md
 ## Grfico 2_
 ### Aqui vemos el promedio de calificacion de los estudiantes segun el nivel eucativo de los padres, se muestran una pequeña diferencia segun la educacion de los padres de nivel secundario y de posgrado, pero nada a nivel relevate.
 
-
 ## Grafico 3_ En este grafico se analiza el promedio de calificacion fianl segun la edad y el genero, donde vemos que las mujeres de 16 años mantienn su promedio por arriba del de los hombres pero la situacion cambia al ver que los hombres entre 17 y 18 años mantienen un promedio mas alto, de igual manera no se observan grandes diferencias.
 ## Grafico 4_
-### En este ultimo grafico vemos el promedio de horas de estudio y el promedio de calificacion final segun el tipo de asistencia, donde vemos que los estudiantes con casi 110 horas mantienen su promedio en 70 puntos, y los estudiantes con casi 115 horas de estudio se mantiene el 73 puntos.
+### En este ultimo grafico vemos el promedio de horas de estudio y el promedio de calificacion final segun el tipo de asistencia, donde vemos que los estudiantes con un promedio de casi 110 horas mantienen su promedio en 70 puntos, y los estudiantes con un promedio de casi 115 horas de estudio se mantiene el 73 puntos.
 
 # Conclusion:
 ## No se observan factores que afecten al rendimiento academico de los estudiantes, si bien se encontraron algunos puntos de diferencia, el unico que destaco fue el factor de las horas de estudio.
+# Entonces, que se puede entender con estos datos?
+## En este puento podemos determinar que los factores que son determinantes para el rendimiento academico son, casi en su totalidad, factores puramente manejados por los mismos estudiantes, ya que no encontramos factores externos que afecten de alguna manera a su puntuacion.
 
 # Autor:
 ## Micaela Sanchez 
